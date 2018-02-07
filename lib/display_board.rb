@@ -4,7 +4,9 @@ def display_board
 end
 
 def printPipe
-
+  puts "   |   |   "
 end
 
 def printBottom
+  puts "-----------"
+end
