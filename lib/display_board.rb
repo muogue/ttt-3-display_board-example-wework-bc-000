@@ -4,7 +4,7 @@ def display_board
     printPipe
     printBottom
   end
-  printBottom
+  printPipe
 end
 
 def printPipe
